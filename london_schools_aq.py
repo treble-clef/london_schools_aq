@@ -2,7 +2,7 @@
 ## Interactive Data Analysis ##
 ###############################
 ## The london_schools_aq module allows for the user to interactively select a specific city or school type to get the average NO2 level.
-## User please remember to change the file location in line 5 to your own.
+## User please remember to change the file location in line 11 to your own.
 
 def london_schools_aq():
   import numpy as np
